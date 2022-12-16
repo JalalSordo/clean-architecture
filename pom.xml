@@ -8,7 +8,7 @@
 
 	<properties>
 		<jdkLevel>1.8</jdkLevel>
-		<spring.version>4.1.4.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<spring.security.version>3.2.2.RELEASE</spring.security.version>
         <jackson.version>2.1.4</jackson.version>
         <lombok.version>1.12.6</lombok.version>
